@@ -3,7 +3,7 @@
 ![Headshot](headshot.jpg)
 
 Maryland, USA  
-+1 (410) 500-0133  
++1 410-500-0133  
 manyaeleti@gmail.com  
 https://www.linkedin.com/in/manya-eleti-116142241/
 
@@ -11,9 +11,7 @@ https://www.linkedin.com/in/manya-eleti-116142241/
 
 ## Profile
 
-Graduate student in the Master of Professional Studies in Data Science program at the University of Maryland, Baltimore County.  
-Strong background in Python, SQL, and analytics with experience working on exploratory analysis, dashboards, and applied machine learning projects.  
-Interested in product-focused analytics roles where data can be used to improve decision making and user experience.
+Graduate student in the Master of Professional Studies in Data Science program at the University of Maryland, Baltimore County. Strong background in Python, SQL, and analytics with experience working on exploratory analysis, dashboards, and applied machine learning projects. Interested in product-focused analytics roles where data can be used to improve decision making and user experience.
 
 ---
 
@@ -21,7 +19,7 @@ Interested in product-focused analytics roles where data can be used to improve 
 
 **University of Maryland, Baltimore County (UMBC)**  
 Master of Professional Studies in Data Science  
-Jan 2025 – Dec 2026  
+Jan 2025 - Dec 2026  
 GPA: 3.95
 
 ---
@@ -35,7 +33,7 @@ GPA: 3.19
 
 ## Professional Experience
 
-**IBM CSRBOX — Data Science & Generative AI Micro-Internship**  
+**IBM CSRBOX - Data Science & Generative AI Micro-Internship**  
 2024
 
 - Performed basic data cleaning and exploratory analysis using Python.
@@ -45,7 +43,7 @@ GPA: 3.19
 
 ---
 
-**EduSkills — Data Automation Virtual Internship (Alteryx)**  
+**EduSkills - Data Automation Virtual Internship (Alteryx)**  
 2023
 
 - Worked on guided workflows for data cleaning, transformation, and validation.
@@ -87,7 +85,8 @@ GPA: 3.19
 
 ## Selected Projects
 
-### Retail Sales Analysis and Forecasting — *2025*
+### Retail Sales Analysis and Forecasting
+2025
 - Analyzed more than 10,000 retail transactions from Amazon and Walmart datasets.
 - Identified trends related to seasonality, location, and product categories.
 - Built a linear regression model for sales forecasting.
@@ -96,7 +95,8 @@ GPA: 3.19
 
 ---
 
-### Impact of AI Automation on Labor Market Displacement — *2025*
+### Impact of AI Automation on Labor Market Displacement
+2025
 - Conducted exploratory analysis on datasets related to automation and workforce trends.
 - Defined metrics to compare productivity across automation levels.
 - Identified key patterns influencing business productivity.
@@ -104,7 +104,8 @@ GPA: 3.19
 
 ---
 
-### Accident Vehicle Fuel Efficiency Analytics Dashboard — *2024*
+### Accident Vehicle Fuel Efficiency Analytics Dashboard
+2024
 - Developed an end-to-end analytics solution using vehicle sales and fuel efficiency data.
 - Designed ETL workflows and stored cleaned data in a SQL database.
 - Built Power BI dashboards to compare fuel efficiency, emissions, and costs.
@@ -114,7 +115,7 @@ GPA: 3.19
 
 ## Leadership and Activities
 
-- Runner-up — Smart India Hackathon
+- Runner-up - Smart India Hackathon
 - Winner — Internal Hackathon, CMR Engineering College
 - Active member of Coding Club and Blockchain Club
 
