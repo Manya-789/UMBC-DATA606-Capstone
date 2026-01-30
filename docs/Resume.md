@@ -83,7 +83,7 @@ GPA: 3.19
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Retail Sales Analysis and Forecasting
 2025
